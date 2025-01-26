@@ -1,7 +1,3 @@
-Here’s a professional and concise `README.md` file for your file compression utility project, inspired by the provided code. It explains the purpose, features, usage, and technical details of the project without directly copying the code.
-
----
-
 # File Compression Utility
 
 A Python-based file compression and decompression tool using **Huffman Coding**. This utility allows users to compress files into a binary format and decompress them back to their original form. It features a user-friendly GUI built with `customtkinter` for easy interaction.
